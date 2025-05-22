@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Rebeka Sarkar"
-  avatar : "/assets/images/riya.jpg"
-  bio    : " Ph.D. Student. Interested in Nonlinear dynamics, Stability, Fluid dynamics "
+  name   : "Mrinal Kanti Sikdar"
+  avatar : "/assets/images/mrinal.jpg"
+  bio    : " Postdoctoral Fellow. Interested in nanotechnology, material science, condensed matter physics. "
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
@@ -70,19 +70,19 @@ author:
      # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/noether23"
+      url: "https://github.com/mrinalkantisikdar"
     #- label: "Instagram"
      # icon: "fab fa-fw fa-instagram"
      # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/rebeka-sarkar-490540245/"
+      url: "https://www.linkedin.com/in/mrinal-kanti-sikdar-ph-d-540099151/"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=JH5eVXYAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=cYJAt5wAAAAJ&hl=en"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Rebeka-Sarkar?ev=hdr_xprf"
+      url: "https://www.researchgate.net/profile/Mrinal-Sikdar?ev=hdr_xprf"
 
 footer:
   links:
